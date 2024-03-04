@@ -18,6 +18,6 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
   <img src="spongebob_howru.gif"/>
 </p>
-<a href="https://www.instagram.com/seojnginn/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<!-- <a href="https://www.instagram.com/seojnginn/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/> -->
 </a>
